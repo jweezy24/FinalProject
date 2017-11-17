@@ -1,2 +1,0 @@
-# FinalProject
-FinalProject comp271
